@@ -42,7 +42,7 @@ Some resources possess an emoticon to help you understand which type of content 
 
 > **Notes:** You can find [a list of everything](https://github.com/joshbuchea/HEAD) that could be found in the `<head>` of an HTML document.
 
-### Meta tag
+### Meta Tag
 
 * [ ] **Doctype:** ![High][high_img] The Doctype is HTML5 and is at the top of all your HTML pages.
 
